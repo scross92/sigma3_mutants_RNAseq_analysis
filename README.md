@@ -1,7 +1,7 @@
 # sigma3_mutants_RNAseq_analysis
-This repo has the scripts used to analyze the RNAseq data generated from Guo Y et al.
+This repo has the scripts used to analyze the RNAseq data generated from Guo Y et al., PLoS Pathogens, 2021
 
-The raw sequencing data can be found on NCBIs SRA under BioProject XXX
+The raw sequencing data can be found on NCBIs SRA under BioProject PRJNA699030
 
 The following scripts perform:
 
